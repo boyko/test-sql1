@@ -1,1 +1,1 @@
-SELECT test FROM table WHERE age = 1;'
+SELECT test FROM table WHERE age = 1;
